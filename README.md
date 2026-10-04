@@ -12,7 +12,7 @@ dos contratos com maior atraso e menor número de acionamentos
  
   <img width="1906" height="949" alt="image" src="https://github.com/user-attachments/assets/f8ff17de-c0d6-4ae0-9236-a18b33e5adfa" />
 
-  - **Gráficos com Plotly:** Matriz de Risco (Dívida x Acionamentos) e Gráfico de Barras de Valor Devido por CCB conforme abaixo.
+  - **Gráficos com Plotly:** Matriz de Risco (Dívida x Acionamentos) e Gráfico de Barras de Valor Devido por CCB conforme abaixo:
     
  <img width="1905" height="944" alt="image" src="https://github.com/user-attachments/assets/e7bb25b3-90a1-4da4-b588-a1aef019a9f8" />
 
@@ -21,7 +21,7 @@ dos contratos com maior atraso e menor número de acionamentos
   - Consulta única T-SQL via SQLAlchemy utilizando `INNER JOIN` e `LEFT JOIN` entre 4 tabelas core do sistema financeiro (`TbContratos`, `TbParcelas`, `TbPagamentos` e `TbAcionamentos`).
   - Cálculo dinâmico de dias de atraso (`DATEDIFF`) e filtro de parcelas em aberto diretamente no motor do banco de dados.
 - **🤖 Inteligência Artificial Generativa Local (Qwen 2.5 3B):**
-  - Integração local com o motor **Ollama** para análise de risco individualizada, aba de recomendaçãoes da IA conforme abaixo.
+  - Integração local com o motor **Ollama** para análise de risco individualizada, aba de recomendaçãoes da IA conforme abaixo:
  
   <img width="1902" height="944" alt="image" src="https://github.com/user-attachments/assets/1b520b54-5669-40eb-9f41-3571115f50db" />
 
